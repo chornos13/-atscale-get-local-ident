@@ -1,0 +1,14 @@
+{
+  "name": "@atscale/get-local-ident",
+  "version": "1.0.0",
+  "description": "fork from css-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "loader-utils": "^1.4.0"
+  }
+}
