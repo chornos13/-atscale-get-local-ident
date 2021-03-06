@@ -1,5 +1,5 @@
 {
-  "name": "@atscale/get-local-ident",
+  "name": "get-local-ident",
   "version": "1.0.0",
   "description": "fork from css-loader",
   "main": "index.js",
